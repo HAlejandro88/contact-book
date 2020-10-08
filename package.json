@@ -1,0 +1,28 @@
+{
+  "name": "@catsys/dashboard-app",
+  "version": "1.0.0",
+  "description": "Catsys component generated",
+  "main": "dashboard-app.js",
+  "keywords": [
+    "lit-element",
+    "component"
+  ],
+  "author": "autogenered <hello@catsys.com>",
+  "license": "MIT",
+  "scripts": {
+    "karma": "karma",
+    "test": "karma start"
+  },
+  "dependencies": {
+    "@material/mwc-button": "^0.19.0",
+    "@material/mwc-formfield": "^0.19.0",
+    "@material/mwc-icon": "^0.19.0",
+    "@material/mwc-textfield": "^0.19.0",
+    "@vaadin/vaadin-grid": "^5.7.4",
+    "lit-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "@open-wc/testing": "^0.9.11",
+    "@open-wc/testing-karma": "^0.4.7"
+  }
+}
